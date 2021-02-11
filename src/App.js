@@ -52,7 +52,6 @@ function App() {
 
   return (
     <div className="App">
-      <h1>{inputText}</h1>
       <Form
         inputText={inputText}
         todos={todos}
