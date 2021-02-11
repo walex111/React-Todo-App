@@ -1,1 +1,1 @@
-# React-Todo-App
+Using React To create a Todo Application with localStorage.
